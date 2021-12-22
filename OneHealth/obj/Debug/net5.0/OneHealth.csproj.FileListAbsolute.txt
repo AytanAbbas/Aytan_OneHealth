@@ -228,3 +228,6 @@ C:\Users\HP\Desktop\OneHealth\OneHealth\obj\Debug\net5.0\Razor\Areas\admin\Views
 C:\Users\HP\Desktop\OneHealth\OneHealth\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\HP\Desktop\OneHealth\OneHealth\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
 C:\Users\HP\Desktop\OneHealth\OneHealth\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\OneHealth\OneHealth\obj\Debug\net5.0\Razor\Areas\admin\Views\Social\Index.cshtml.g.cs
+C:\Users\HP\Desktop\OneHealth\OneHealth\obj\Debug\net5.0\Razor\Areas\admin\Views\Social\Create.cshtml.g.cs
+C:\Users\HP\Desktop\OneHealth\OneHealth\obj\Debug\net5.0\Razor\Areas\admin\Views\Social\Update.cshtml.g.cs
